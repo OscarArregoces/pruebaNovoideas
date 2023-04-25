@@ -20,7 +20,7 @@ export const Inicio = () => {
           <Stack direction="row" spacing={2} sx={{ 'display': 'flex', 'justifyContent': 'center', 'alignItems': 'center' }}>
             <Avatar
               alt="Remy Sharp"
-              src="/src//assets/Perfil.png"
+              src="/src/assets/Perfil.png"
               sx={{ width: 100, height: 100, 'margin': '10px' }}
             />
           </Stack>
